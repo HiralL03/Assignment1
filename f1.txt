@@ -1,1 +1,14 @@
 Hii making some changes in file 1
+
+adding more text in this files
+line 1
+line 2
+line 3
+line 4
+
+adding som more lines for Assignment 2
+
+line 10
+line 11
+line 12
+line 13
